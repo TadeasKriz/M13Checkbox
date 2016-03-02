@@ -6,3 +6,5 @@ M13Checkbox.xcodeproj/xcuserdata/
 M13Checkbox.xcworkspace/
 Pods/
 Podfile.lock
+.DS_Store
+Carthage
